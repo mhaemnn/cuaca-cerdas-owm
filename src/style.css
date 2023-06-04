@@ -1,4 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap");
 body {
+  font-family: "Dosis", sans-serif;
   margin: 0;
   padding: 0;
   background-color: white;
@@ -17,7 +19,9 @@ body {
 h1 {
   color: #333;
 }
-
+input {
+  font-family: "Dosis", sans-serif;
+}
 #weather {
   margin-top: 20px;
 }
