@@ -35,11 +35,11 @@ window.addEventListener("load", () => {
             <p>Humidity: ${humidity}%</p>
           `;
 
-        const iconElement = document.createElement("img");
-        iconElement.src = `http://openweathermap.org/img/wn/${icon}.png`;
-        iconElement.alt = "Weather Icon";
-        iconElement.classList.add("weather-icon");
-        weatherElement.appendChild(iconElement);
+        // const iconElement = document.createElement("img");
+        // // iconElement.src = `http://openweathermap.org/img/wn/${icon}.png`;
+        // iconElement.alt = "Weather Icon";
+        // iconElement.classList.add("weather-icon");
+        // weatherElement.appendChild(iconElement);
       })
       .catch((error) => {
         document.getElementById(
