@@ -1,6 +1,6 @@
-![](./src/assets/home.PNG)
-
 ### Project 4 [Group 1]
+
+(........silahkan isi kata-kata...............)
 
 | Name                     | Division of Tasks               | Github                               |
 | ------------------------ | ------------------------------- | ------------------------------------ |
