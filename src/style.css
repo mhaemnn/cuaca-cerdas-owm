@@ -42,7 +42,10 @@ button {
   font-family: "Roboto Slab", serif;
 }
 button {
-  border-radius: 50%;
+  margin-left: 15px;
+}
+button img {
+  width: 20px;
 }
 #weather {
   margin-top: 20px;
